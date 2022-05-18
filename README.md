@@ -37,5 +37,6 @@ To follow the signal through the media noise, I have started to collect all the 
 * Hopin (Layoffs)
 * Mural (Layoffs)
 * MainStreet (Layoffs)
+* Netfix (Layoffs)
 * Tudum, Netflix editorial arm (Layoffs)
 
