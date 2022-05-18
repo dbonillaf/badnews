@@ -5,7 +5,7 @@ We are surrounded by many rumors about a presumed "tech bubble burst" in 2022. I
 To follow the signal through the media noise, I have started to collect all the available links about the alleged catastrophe.
 
 * [[FEB10TH] Layoffs at Hopin and Peloton (@GergelyOrosz)](https://twitter.com/GergelyOrosz/status/1491855427277107202)
-* [[MAY05TH] Facebook is freezing hiring](https://www.businessinsider.com/facebook-is-freezing-hiring-heres-why-and-who-it-impacts-2022-5)
+* [[MAY05TH] Facebook is freezing hiring (BusinessInsider)](https://www.businessinsider.com/facebook-is-freezing-hiring-heres-why-and-who-it-impacts-2022-5)
 * [[MAY06TH] Post-pandemic reset leads to wave of layoffs in tech (Techcrunch)](https://techcrunch.com/2022/05/06/startup-tech-layoffs-in-may/)
 * [[MAY09TH] Uber CEO tells staff company will cut down on costs, treat hiring as a ‘privilege’ (CNBC)](https://www.cnbc.com/2022/05/09/uber-to-cut-down-on-costs-treat-hiring-as-a-privilege-ceo-email.html)
 * [[MAY12TH] (Spanish) Llegó las horas de los despidos para las startups (@davmiranda via Expansion)](https://twitter.com/davmiranda/status/1524616323124408321)
@@ -14,7 +14,7 @@ To follow the signal through the media noise, I have started to collect all the 
 * [[MAY17TH] Coinbase will slow down hiring from its original plan to TRIPLE headcount this year (Coinbase)](https://blog.coinbase.com/employee-note-an-update-on-hiring-plans-507ea4e2b6cf)
 * [[MAY17TH] Netflix lays off 150 employees (CNBC)](https://www.cnbc.com/2022/05/17/netflix-lays-off-150-employees-as-the-streaming-service-contends-with-big-subscriber-losses.html)
 * [[MAY17TH] (Spanish) Las grandes tecnológicas han dejado de contratar y afrontan algo inédito en su historia: vacas flacas (Xataka)](https://www.xataka.com/empresas-y-economia/cada-vez-grandes-tecnologicas-congelan-contrataciones-crisis-economica-amenaza-gran-renuncia)
-* [[MAY18TH] (Spanish) Las tecnológicas ante su tormenta perfecta financiera: hundimientos, batacazo cripto y capital riesgo congelado (Xataka) (https://www.xataka.com/empresas-y-economia/tecnologicas-su-tormenta-perfecta-financiera-hundimientos-batacazo-cripto-capital-riesgo-congelado)]
+* [[MAY18TH] (Spanish) Las tecnológicas ante su tormenta perfecta financiera: hundimientos, batacazo cripto y capital riesgo congelado (Xataka)](https://www.xataka.com/empresas-y-economia/tecnologicas-su-tormenta-perfecta-financiera-hundimientos-batacazo-cripto-capital-riesgo-congelado)
 
 ## Companies allegedly Affected
 
@@ -30,6 +30,7 @@ To follow the signal through the media noise, I have started to collect all the 
 * Cameo
 * Carvana
 * DataRobot
+* Doma
 * Fast
 * Gopuff
 * Hopin
@@ -40,14 +41,18 @@ To follow the signal through the media noise, I have started to collect all the 
 * Noom
 * On Deck
 * Peloton
+* Reef
 * Robinhood
 * Sea
 * Section4
+* Send
 * Thrasio
 * Tudum (Netflix editorial arm)
 * Unacademy
+* Vroom
 * WeDoctor
 * Workrise
+* Zwift
 
 ### Slowdowns
 
