@@ -10,7 +10,7 @@ To follow the signal through the media noise, I have started to collect all the 
 * [[MAY12TH] Here’s the memo Twitter CEO Parag Agrawal sent about firing execs and a hiring freeze (The Verge)](https://www.theverge.com/2022/5/12/23068985/twitter-memo-parag-agrawal-firing-execs-hiring-freeze)
 * [[MAY13TH] Tech employees face another tough week of cross-stage layoffs (Techcrunch)](https://techcrunch.com/2022/05/13/startup-tech-layoff-and-hiring-freeze-in-may/)
 * [[MAY17TH] Coinbase will slow down hiring from its original plan to TRIPLE headcount this year (Coinbase)](https://blog.coinbase.com/employee-note-an-update-on-hiring-plans-507ea4e2b6cf)
-* [[MAY17TH] Netflix lays off 150 employeesc (CNBC)](https://www.cnbc.com/2022/05/17/netflix-lays-off-150-employees-as-the-streaming-service-contends-with-big-subscriber-losses.html)
+* [[MAY17TH] Netflix lays off 150 employees (CNBC)](https://www.cnbc.com/2022/05/17/netflix-lays-off-150-employees-as-the-streaming-service-contends-with-big-subscriber-losses.html)
 
 ## Companies allegedly Affected
 
