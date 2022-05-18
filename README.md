@@ -5,6 +5,7 @@ We are surrounded by many rumors about a presumed "tech bubble burst" in 2022. I
 To follow the signal through the media noise, I have started to collect all the available links about the alleged catastrophe.
 
 * [[FEB10TH] Layoffs at Hopin and Peloton (@GergelyOrosz)](https://twitter.com/GergelyOrosz/status/1491855427277107202)
+* [[MAY05TH] Facebook is freezing hiring](https://www.businessinsider.com/facebook-is-freezing-hiring-heres-why-and-who-it-impacts-2022-5)
 * [[MAY06TH] Post-pandemic reset leads to wave of layoffs in tech (Techcrunch)](https://techcrunch.com/2022/05/06/startup-tech-layoffs-in-may/)
 * [[MAY09TH] Uber CEO tells staff company will cut down on costs, treat hiring as a ‘privilege’ (CNBC)](https://www.cnbc.com/2022/05/09/uber-to-cut-down-on-costs-treat-hiring-as-a-privilege-ceo-email.html)
 * [[MAY12TH] (Spanish) Llegó las horas de los despidos para las startups (@davmiranda via Expansion)](https://twitter.com/davmiranda/status/1524616323124408321)
@@ -16,29 +17,37 @@ To follow the signal through the media noise, I have started to collect all the 
 
 ## Companies allegedly Affected
 
-* Coinbase (Slowdown)
-* Section4 (Layoffs)
-* Carvana (Layoffs)
-* Latch (Layoffs)
-* DataRobot (Layoffs)
-* Twitter (Freeze)
-* Better.com (Layoffs)
-* Peloton (Layoffs)
-* Unacademy (Layoffs)
-* WeDoctor (Layoffs)
-* Avo (Layoffs)
-* Noom (Layoffs)
-* Gopuff (Layoffs)
-* Fast (Layoffs)
-* Sea (Layoffs)
-* Robinhood (Layoffs)
-* Cameo (Layoffs)
-* On Deck (Layoffs)
-* Workrise (Layoffs)
-* Thrasio (Layoffs)
-* Hopin (Layoffs)
-* Mural (Layoffs)
-* MainStreet (Layoffs)
-* Netfix (Layoffs)
-* Tudum, Netflix editorial arm (Layoffs)
+### Freezes
 
+* Meta
+* Twitter
+
+### Layoffs
+
+* Avo
+* Better.com
+* Cameo
+* Carvana
+* DataRobot
+* Fast
+* Gopuff
+* Hopin
+* Latch
+* MainStreet
+* Mural
+* Netfix
+* Noom
+* On Deck
+* Peloton
+* Robinhood
+* Sea
+* Section4
+* Thrasio
+* Tudum (Netflix editorial arm)
+* Unacademy
+* WeDoctor
+* Workrise
+
+### Slowdowns
+
+* Coinbase
