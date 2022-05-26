@@ -16,8 +16,9 @@ To follow the signal through the media noise, I have started to collect all the 
 * [[MAY17TH] Netflix lays off 150 employees (CNBC)](https://www.cnbc.com/2022/05/17/netflix-lays-off-150-employees-as-the-streaming-service-contends-with-big-subscriber-losses.html)
 * [[MAY17TH] (Spanish) Las grandes tecnológicas han dejado de contratar y afrontan algo inédito en su historia: vacas flacas (Xataka)](https://www.xataka.com/empresas-y-economia/cada-vez-grandes-tecnologicas-congelan-contrataciones-crisis-economica-amenaza-gran-renuncia)
 * [[MAY18TH] (Spanish) Las tecnológicas ante su tormenta perfecta financiera: hundimientos, batacazo cripto y capital riesgo congelado (Xataka)](https://www.xataka.com/empresas-y-economia/tecnologicas-su-tormenta-perfecta-financiera-hundimientos-batacazo-cripto-capital-riesgo-congelado)
-* [[MAY23TH] Company announcement from CEO Sebastian](https://www.klarna.com/uk/blog/company-announcement-from-ceo-sebastian/)
-* [[MAY24TH] Gorillas fires half its employees at HQ](https://sifted.eu/articles/gorillas-fires-employees/)
+* [[MAY23TH] Klarna announcement from CEO Sebastian](https://www.klarna.com/uk/blog/company-announcement-from-ceo-sebastian/)
+* [[MAY24TH] Gorillas fires half its employees at HQ (Sifted)](https://sifted.eu/articles/gorillas-fires-employees/)
+* [MAY25TH Embattled Payments Startup Bolt Is Cutting One-Third of Staff (Bloomberg)](https://www.bloomberg.com/news/articles/2022-05-25/bolt-layoffs-hit-fintech-startup?sref=DtF0tJD5)
 
 
 ## Companies allegedly Affected
@@ -31,6 +32,7 @@ To follow the signal through the media noise, I have started to collect all the 
 
 * Avo
 * Better.com
+* Bolt
 * Cameo
 * Carvana
 * DataRobot
