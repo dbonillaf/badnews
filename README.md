@@ -44,7 +44,7 @@ To follow the signal through the media noise, I have started to collect all the 
 * Latch
 * MainStreet
 * Mural
-* Netfix
+* Netflix
 * Noom
 * On Deck
 * Peloton
