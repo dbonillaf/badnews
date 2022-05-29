@@ -19,6 +19,7 @@ To follow the signal through the media noise, I have started to collect all the 
 * [[MAY23TH] Klarna announcement from CEO Sebastian](https://www.klarna.com/uk/blog/company-announcement-from-ceo-sebastian/)
 * [[MAY24TH] Gorillas fires half its employees at HQ (Sifted)](https://sifted.eu/articles/gorillas-fires-employees/)
 * [MAY25TH Embattled Payments Startup Bolt Is Cutting One-Third of Staff (Bloomberg)](https://www.bloomberg.com/news/articles/2022-05-25/bolt-layoffs-hit-fintech-startup?sref=DtF0tJD5)
+* [[MAY26TH] PayPal Begins Cutting Staff as Its Push to Reduce Costs Ramps Up](https://www.bloomberg.com/news/articles/2022-05-26/paypal-begins-cutting-staff-as-push-to-reduce-costs-ramps-up)
 * [[JUN3RD] Coinbase is rescinding job offers for people who haven't started yet (@Carnage4Life)](https://twitter.com/Carnage4Life/status/1532472869334110208)
 
 
@@ -48,6 +49,7 @@ To follow the signal through the media noise, I have started to collect all the 
 * Netflix
 * Noom
 * On Deck
+* PayPal
 * Peloton
 * Reef
 * Robinhood
