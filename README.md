@@ -43,6 +43,7 @@ To follow the signal through the media noise, I have started to collect all the 
 * Gopuff
 * Gorilla
 * Hopin
+* klarna
 * Latch
 * MainStreet
 * Mural
