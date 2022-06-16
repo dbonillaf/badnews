@@ -21,6 +21,7 @@ To follow the signal through the media noise, I have started to collect all the 
 * [[MAY25TH] Embattled Payments Startup Bolt Is Cutting One-Third of Staff (Bloomberg)](https://www.bloomberg.com/news/articles/2022-05-25/bolt-layoffs-hit-fintech-startup?sref=DtF0tJD5)
 * [[MAY26TH] PayPal Begins Cutting Staff as Its Push to Reduce Costs Ramps Up](https://www.bloomberg.com/news/articles/2022-05-26/paypal-begins-cutting-staff-as-push-to-reduce-costs-ramps-up)
 * [[JUN3RD] Coinbase is rescinding job offers for people who haven't started yet (@Carnage4Life)](https://twitter.com/Carnage4Life/status/1532472869334110208)
+* [[JUN10TH] Trade Republic lays off numerous employees](https://thebookmama.com/2022/06/10/trade-republic-lays-off-numerous-employees/)
 
 
 ## Companies allegedly Affected
@@ -58,6 +59,7 @@ To follow the signal through the media noise, I have started to collect all the 
 * Section4
 * Send
 * Thrasio
+* Trade Republic
 * Tudum (Netflix editorial arm)
 * Unacademy
 * Vroom
